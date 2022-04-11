@@ -1,0 +1,139 @@
+@charset "utf-8";
+
+/*
+* This stylesheet was made by MJB Events PR (https://www.mjbeventspr.com/en/).
+* Donate via https://whydonate.nl/donate/mjbeventspr/en/
+*/
+
+body {
+  background-color: #000000;
+	color: #ffffff;
+}
+
+a {
+  color: #01c7f6;
+  text-decoration: none !important;
+  font-weight: 700;
+}
+
+a:hover {
+  color: #01c7f6;
+  font-weight: 700;
+}
+
+.landing-page-title {
+  left: 0;
+  line-height: 200px;
+  margin-top: -100px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.btn {
+  border: 5px;
+  border-color: #ffffff;
+}
+
+.btn:link {
+  border: 1px;
+  border-color: #ffffff;
+  border-radius: 0px !important;
+}
+
+.button-facebook {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.button-facebook:hover {
+  background-color: #4267B2;
+  color: #ffffff;
+}
+
+.button-instagram {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.button-instagram:hover {
+  background-color: #833AB4;
+  color: #ffffff;
+}
+
+.button-linkedin {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.button-linkedin:hover {
+  background-color: #0A66C2;
+  color: #ffffff;
+}
+
+.button-twitter {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.button-twitter:hover {
+  background-color: #1D9BF0;
+  color: #ffffff;
+}
+
+.button-whatsapp {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.button-whatsapp:hover {
+  background-color: #25D366;
+  color: #ffffff;
+}
+
+.button-pinterest {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.button-pinterest:hover {
+  background-color: #E60023;
+  color: #ffffff;
+}
+
+.button-youtube {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.button-youtube:hover {
+  background-color: #FF0000;
+  color: #ffffff;
+}
+
+.button-tiktok {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.button-tiktok:hover {
+  background-color: #25F4EE;
+  color: #000000;
+}
+
+.button-snapchat {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.button-snapchat:hover {
+  background-color: #FFFC00;
+  color: #000000;
+}
